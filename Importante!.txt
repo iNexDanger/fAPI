@@ -1,0 +1,3 @@
+# fAPI
+Esta es mi primer API en GO (Golang), algo simple pero indispensable para cualquier principiante que empieza en el mundo de la programación
+No olvides importar (en caso de que ya tengas) Gorilla/mux, debes descargarlo en caso de que no lo tengas.
